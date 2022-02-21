@@ -223,7 +223,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!95 &598480939
 Animator:
   serializedVersion: 3
@@ -234,7 +234,7 @@ Animator:
   m_GameObject: {fileID: 598480938}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 01c3efe4bf87f47428801ea9d4861066, type: 2}
+  m_Controller: {fileID: 9100000, guid: 725c767788b4b824d93d677d47c92df7, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -601,7 +601,7 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0.57}
+  m_Offset: {x: 0, y: -0.57}
   serializedVersion: 2
   m_Radius: 0.2
 --- !u!1 &1887219649
